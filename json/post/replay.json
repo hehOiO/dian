@@ -1,0 +1,27 @@
+{
+  "code":200,
+  "msg":"成功",
+  "data":[
+    {
+      "uid":1,
+      "usename":"象山吴彦祖",
+      "photo":"/static/images/default.gif",
+      "publish_time":"三分钟前",
+      "content":"好棒啊，这是真的吗?"           
+    },
+    {
+      "uid":1,
+      "usename":"象山吴彦祖",
+      "photo":"/static/images/default.gif",
+      "publish_time":"六分钟前",
+      "content":"狗拖，绝壁狗拖"           
+    },
+    {
+      "uid":2,
+      "usename":"石浦刘德华",
+      "photo":"/static/images/photo_default.jpg",
+      "publish_time":"六分钟前",
+      "content":"狗儿子，运气那么好"           
+    }
+  ]
+}

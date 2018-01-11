@@ -1,0 +1,42 @@
+{
+  "code":200,
+  "msg":"成功",
+  "data":[
+  	{	
+  		"goods_name":"飘柔洗发露",
+  		"price":32.00,
+  		"thumb":"/static/images/goods/goods1.jpg",
+  		"activity_num":30,
+  		"total_num":100,
+  		"already_num":65,
+  		"create_time":"2017-12-25 15:00"
+  	},
+   	{	
+  		"goods_name":"飘柔沐浴乳",
+  		"price":35.00,
+  		"thumb":"/static/images/goods/goods2.jpg",
+  		"activity_num":26,
+  		"total_num":100,
+  		"already_num":40,
+  		"create_time":"2017-12-25 15:30"
+  	},
+   	{	
+  		"goods_name":"三星超保真音响",
+  		"price":400.00,
+  		"thumb":"/static/images/goods/goods3.jpg",
+  		"activity_num":18,
+  		"total_num":20,
+  		"already_num":12,
+  		"create_time":"2017-12-25 15:50"
+  	},
+   	{	
+  		"goods_name":"IPHONE7",
+  		"price":4499.00,
+  		"thumb":"/static/images/goods/goods4.jpg",
+  		"activity_num":15,
+  		"total_num":10,
+  		"already_num":3,
+  		"create_time":"2017-12-25 16:00"
+  	}
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "code":200,
+  "msg":"成功",
+  "data":[
+  	{	
+  		"goods_name":"飘柔洗发露(三瓶特惠装)",
+  		"thumb":"/static/images/goods/goods1.jpg",
+      "qihao":100022,
+      "join_num":10,
+      "end_time":"2018-12-31 17:00:00",
+      "evaluate":{
+        "pl_text":"这是一条评论",
+        "pl_img":["/static/images/goods/goods1.jpg"],
+        "send_time":"刚刚",
+        "love":776,
+        "replay":300
+      }
+  	},
+  	{	
+  		"goods_name":"飘柔洗发露(三瓶特惠装)",
+  		"thumb":"/static/images/goods/goods1.jpg",
+      "qihao":100022,
+      "join_num":10,
+      "end_time":"2018-12-31 17:00:00"
+  	}
+  ]
+}

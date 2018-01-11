@@ -1,0 +1,63 @@
+{
+  "code":200,
+  "msg":"成功",
+  "data":[
+  	{	
+  		"goods_name":"飘柔洗发露(三瓶特惠装)",
+  		"thumb":"/static/images/goods/goods1.jpg",
+      "qihao":100022,
+      "join_num":10,
+      "end_time":"2018-12-31 17:00:00",
+      "evaluate":{
+        "pl_text":"这是一条评论",
+        "pl_img":["/static/images/goods/goods1.jpg"],
+        "send_time":"刚刚",
+        "love":776,
+        "replay":300
+      }
+  	},
+   	{	
+  		"goods_name":"飘柔沐浴乳(三瓶特惠装)",
+  		"price":35.00,
+  		"thumb":"/static/images/goods/goods2.jpg",
+      "qihao":100023,
+      "join_num":15,
+      "end_time":"2018-12-29 11:00:00",
+      "evaluate":{
+        "pl_text":"这是一条评论",
+        "pl_img":["/static/images/goods/goods2.jpg"],
+        "send_time":"三分钟前",
+        "love":276,
+        "replay":152
+      }
+  	},
+   	{	
+  		"goods_name":"三星超保真音响",
+  		"thumb":"/static/images/goods/goods3.jpg",
+      "qihao":100024,
+      "join_num":25,
+      "end_time":"2018-12-28 16:00:00",
+      "evaluate":{
+        "pl_text":"这是一条评论",
+        "pl_img":["/static/images/goods/goods3.jpg"],
+        "send_time":"一小时前",
+        "love":472,
+        "replay":160
+      }
+  	},
+   	{	
+  		"goods_name":"IPHONE7",
+  		"thumb":"/static/images/goods/goods4.jpg",
+      "qihao":100025,
+      "join_num":30,
+      "end_time":"2018-12-28 20:00:00",
+      "evaluate":{
+        "pl_text":"这是一条评论",
+        "pl_img":["/static/images/goods/goods4.jpg"],
+        "send_time":"三天前",
+        "love":356,
+        "replay":230
+      }
+  	}
+  ]
+}

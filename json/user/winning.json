@@ -1,0 +1,20 @@
+{
+  "code":200,
+  "msg":"成功",
+  "data":[
+    {
+      "id":1,
+      "goods_name":"飘柔洗发露",
+      "thumb":"/static/images/goods/goods1.jpg",
+      "spec":"三瓶装（500ml/瓶）",
+      "style":""
+    },
+    {
+      "id":2,
+      "goods_name":"飘柔沐浴乳",
+      "thumb":"/static/images/goods/goods2.jpg",
+      "spec":"三瓶装（500ml/瓶）",
+      "style":""
+    }
+  ]
+}

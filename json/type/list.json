@@ -1,0 +1,54 @@
+{
+  "code":200,
+  "msg":"成功",
+  "data":[
+    {
+      "id":1,
+      "typename":"10元专区",
+      "typeicon":"/static/images/aliicon/ten.png",
+      "create_time":"2018-1-1 12:00:00"       
+    },
+    {
+      "id":2,
+      "typename":"虚拟充值",
+      "typeicon":"/static/images/aliicon/dummy.png",
+      "create_time":"2018-1-1 12:00:00"       
+    },
+    {
+      "id":3,
+      "typename":"手机平板",
+      "typeicon":"/static/images/aliicon/moblie.png",
+      "create_time":"2018-1-1 12:00:00"       
+    },
+    {
+      "id":4,
+      "typename":"电脑数码",
+      "typeicon":"/static/images/aliicon/computer.png",
+      "create_time":"2018-1-1 12:00:00"       
+    },
+    {
+      "id":5,
+      "typename":"家用电器",
+      "typeicon":"/static/images/aliicon/icebox.png",
+      "create_time":"2018-1-1 12:00:00"       
+    },
+    {
+      "id":6,
+      "typename":"女性时尚",
+      "typeicon":"/static/images/aliicon/lipstick.png",
+      "create_time":"2018-1-1 12:00:00"       
+    },
+    {
+      "id":7,
+      "typename":"美食天地",
+      "typeicon":"/static/images/aliicon/cup.png",
+      "create_time":"2018-1-1 12:00:00"       
+    },
+    {
+      "id":8,
+      "typename":"其他商品",
+      "typeicon":"/static/images/aliicon/type.png",
+      "create_time":"2018-1-1 12:00:00"       
+    }
+  ]
+}

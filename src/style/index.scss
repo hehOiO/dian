@@ -1,0 +1,40 @@
+	 $yahei:'Microsoft YaHei';
+$height:1rem;
+.bk{
+	width: 100%;
+}
+.bk0{
+	@extend .bk;
+	height: 0*$height;
+}
+.bk1{
+	@extend .bk;
+	height: 1*$height;
+}
+.bk2{
+	@extend .bk;
+	height: 2*$height;
+}
+.bk3{
+	@extend .bk;
+	height: 3*$height;
+}
+.bk4{
+	@extend .bk;
+	height: 4*$height;
+}
+.bk5{
+	@extend .bk;
+	height: 5*$height;
+}
+.data-empty{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	color: #fff;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font:1.6rem/2rem '微软雅黑';
+	color: #999;
+}

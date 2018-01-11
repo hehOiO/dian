@@ -1,0 +1,49 @@
+        /*首先第一步就是隐藏原来的复选框*/
+        .regular-checkbox {
+            display: none;
+        }
+            /*第二部定义现在复选框样式*/
+            .regular-checkbox + label {
+                position: relative;
+                display: inline-block;
+                /*lable是内联元素所以需要加inline-block*/
+                padding: 1rem;
+                /*设置复选框大小*/
+                background-color: #fafafa;
+                /*设置背景颜色*/
+                border-radius: 3px;
+                /*复选框border*/
+                border: 1px solid #CACACA;
+                box-shadow: 0 1px 3px rgba(0,0,0,0.5);
+                /*创建的阴影效果  这里需要了解box-shadow的属性，前三个值分别是 
+                    阴影离开横方向的距离   :offset-x
+                    阴影离开纵方向的距离   ：offset-y
+                    阴影的模糊半径： 
+                    阴影的颜色 ：   
+                */
+            }
+                /*第三部分做一个active的效果*/
+                .regular-checkbox + label:active, .regular-checkbox + label:checked + label:active {
+                    box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+                }
+            /*选中之后的样式*/
+            .regular-checkbox:checked + label {
+                background-color: #fff;
+                box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+            }
+                /*选中后的效果*/
+                .regular-checkbox:checked + label:after {
+
+                    content: '\2714';
+                    /*这是一个对勾*/
+                    position: absolute;
+                    font-size: 1.5rem;
+                    /*设置对勾的大小*/
+                    top: 2px;
+                    left: 5px;
+                    /*设置位置的偏向*/
+                    color: #FF344A;
+                    /*设置颜色绿色*/
+                    font-weight: bold;
+                    /*设置对勾的粗细*/
+                }

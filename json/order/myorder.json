@@ -1,0 +1,26 @@
+{
+  "code":200,
+  "msg":"成功",
+  "data":[
+    {
+      "id":1,
+      "goods_name":"飘柔洗发露",
+      "price":32.00,
+      "thumb":"/static/images/goods/goods1.jpg",
+      "spec":"三瓶装（500ml/瓶）",
+      "style":"",
+      "is_luck":0,
+      "num":5
+    },
+    {
+      "id":2,
+      "goods_name":"飘柔沐浴乳",
+      "price":35.00,
+      "thumb":"/static/images/goods/goods2.jpg",
+      "spec":"三瓶装（500ml/瓶）",
+      "style":"",
+      "is_luck":1,
+      "num":10
+    }
+  ]
+}

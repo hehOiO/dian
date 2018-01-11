@@ -1,0 +1,36 @@
+{
+  "code":200,
+  "msg":"成功",
+  "data":{	
+      "id":10086,
+      "goods_name":"IPHONE7",
+      "spec":"附有耳机，充电线",
+      "disc":"魅力秀发，给一个不一样的体验",
+      "thumb":"/static/images/goods/goods4.jpg",
+      "pic_area":[
+        "/static/images/goods_banner/iphone_banner1.jpg",
+        "/static/images/goods_banner/iphone_banner2.jpg",
+        "/static/images/goods_banner/iphone_banner3.jpg"
+      ],
+      "is_jiexiao":0,
+      "surplus_time":"2018-1-11 16:50:00",
+      "join_data":[
+        {
+          "uid":1,
+          "photo":"/static/images/default.gif",
+          "address":"浙江省杭州市",
+          "username":"象山吴彦祖",
+          "create_time":"2018-1-10 8:30:00",
+          "join_num":5
+        },
+        {
+          "uid":1,
+          "photo":"/static/images/photo_default.jpg",
+          "address":"浙江省宁波市",
+          "username":"石浦刘德华",
+          "create_time":"2018-1-10 9:30:00",
+          "join_num":2
+        }
+      ]
+  	}
+}

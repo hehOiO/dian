@@ -1,0 +1,34 @@
+{
+  "code":200,
+  "msg":"成功",
+  "data":[
+  	{	
+  		"goods_name":"飘柔洗发露(三瓶特惠装)",
+  		"price":32.00,
+  		"thumb":"/static/images/goods/goods1.jpg",
+      "is_lottery":0,
+      "end_time":"2018-1-11 18:00:20"
+  	},
+   	{	
+  		"goods_name":"飘柔沐浴乳(三瓶特惠装)",
+  		"price":35.00,
+  		"thumb":"/static/images/goods/goods2.jpg",
+      "is_lottery":0,
+      "end_time":"2018-1-11 18:20:20"
+  	},
+   	{	
+  		"goods_name":"三星超保真音响",
+  		"price":400.00,
+  		"thumb":"/static/images/goods/goods3.jpg",
+      "is_lottery":0,
+      "end_time":"2018-1-11 18:10:20"
+  	},
+   	{	
+  		"goods_name":"IPHONE7",
+  		"price":4499.00,
+  		"thumb":"/static/images/goods/goods4.jpg",
+      "is_lottery":0,
+      "end_time":"2018-1-11 18:40:20"
+  	}
+  ]
+}
