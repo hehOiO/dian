@@ -1,21 +1,19 @@
-# onemoney
+name:一元夺宝app
+auther:张慧慧
+time:2018-1-11
 
-> yi yuan duo bao app
+目录结构
+src|-
+	api:接口
+	assets:资源文件
+	components:组件
+	filter:全局过滤器
+	func:辅助函数
+	router:路由 
+	store:vuex
+	style:全局样式
+	tools:工具类
+	view:视图
+	app.vue：入口模板文件
+	main:入口文件
 
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
